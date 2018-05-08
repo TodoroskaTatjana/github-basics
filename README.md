@@ -1,4 +1,4 @@
-#Github Basics
+Github Basics
 --------------
 remote repo to help me to test out my skills.
 ### This really need another hrader.
